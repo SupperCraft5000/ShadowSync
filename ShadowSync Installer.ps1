@@ -52,4 +52,4 @@ $client.DownloadFile("https://shadowgaming.de/web/Programm/ShadowSync/7z/Far/7-Z
 $client.DownloadFile("https://shadowgaming.de/web/Programm/ShadowSync/7z/Far/7zToFar.ini", "C:\Users\Public\Documents\ShadowSync\7z\Far\7zToFar.ini")
 $client.DownloadFile("https://shadowgaming.de/web/Programm/ShadowSync/7z/Far/far7z.reg", "C:\Users\Public\Documents\ShadowSync\7z\Far\far7z.reg")
 $client.DownloadFile("https://shadowgaming.de/web/Programm/ShadowSync/7z/Far/far7z.txt", "C:\Users\Public\Documents\ShadowSync\7z\Far\far7z.txt")
-start C:\Users\Public\Documents\ShadowSync\installer_d.exe
+start C:\Users\Public\Documents\ShadowSync\installer.exe
